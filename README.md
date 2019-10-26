@@ -117,7 +117,7 @@ This website is designed for everyone , for football fans, as well as amateurs o
 - It was copied and shared from https://en.wikipedia.org/wiki/Manchester_United_F.C. .
 
 ### Images
-- It was shared from https://www.manutd.com/ .
+- ```It was shared from https://www.manutd.com/``` .
 
 ### Footer
 - It was copied from https://mdbootstrap.com/docs/jquery/navigation/footer/ - changes were made for the purposes of the project.
